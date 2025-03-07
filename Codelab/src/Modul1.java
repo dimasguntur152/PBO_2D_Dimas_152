@@ -1,7 +1,7 @@
 import java.util.Scanner;
-import java.time.LocalDate;
+import java.time.LocalDate; 
 
-public class Main {
+public class Modul1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
